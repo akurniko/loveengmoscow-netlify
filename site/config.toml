@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "ru-ru"
 languageLang = "ru"
-title = "Homepage"
+title = "LoveEnglishMoscow"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
