@@ -4,7 +4,9 @@ https://github.com/bhauman/lein-figwheel
 
 ClojureScript tutorial and REPL
 
-Lyntin bots.
-Overall model.
-
 Secret handling Netlify.
+
+Lyntin bots.
+
+## Overall model.
+Tree search through database of text lines.
