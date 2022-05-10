@@ -12,3 +12,5 @@ Lyntin bots.
 Tree search through database of text lines.
 Number of unique lines in the logs.
 Depth of the tree.
+
+Interesting to compare performance of regexp.
